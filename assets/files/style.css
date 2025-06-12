@@ -120,7 +120,7 @@ body{
     padding: 10px 5px;
 }
 .sidebar ul li:hover{
-    background-color: rgba(219, 219, 219, 0.5);
+    background-color: rgba(255, 186, 186, 0.5);
     border-radius: 13px;
 }
 .sidebar ul p:hover{
@@ -272,7 +272,8 @@ body{
     /* box-sizing: ; */
 }
 .voice:hover{
-    background-color: rgba(188, 188, 188, 0.756);
+    background-color: rgba(255, 186, 186, 0.5);
+
 }
 .voice img{
     width: 65%;
@@ -302,7 +303,8 @@ body{
     cursor: pointer;
 }
 .sideitems div:hover{
-    background-color: rgba(188, 188, 188, 0.756);
+    background-color: rgba(255, 186, 186, 0.5);
+
 }
 .sideitems img{
     width: 20px;
@@ -314,16 +316,12 @@ body{
 
 
 
-
-
-
-
-
-
-
-
-
-
+/* BUTTONS */
+/* BUTTONS */
+/* BUTTONS */
+/* BUTTONS */
+/* BUTTONS */
+/* BUTTONS */
 
 
 
@@ -378,7 +376,7 @@ body{
     /* height: 100%; */
     width: calc(100% - 275px);
     position: absolute;
-    top: 140px;
+    top: 130px;
     left: 260px;
     padding: 10px 0px;
     border-radius: 20px;
