@@ -389,9 +389,9 @@ body{
 .video-cont{
     background-color: rgb(238, 108, 108);
     background-color: rgba(255, 255, 255);
-    margin: 15px 15px;
+    margin: 15px 10px;
     height: 300px;
-    width: 280px;
+    width: 290px;
     border-radius: 35px;
     padding: 15px;
     box-shadow: 0 0 12px 5px #dddddd;
